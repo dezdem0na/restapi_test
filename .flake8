@@ -1,0 +1,4 @@
+[flake8]
+ignore = F403
+max-line-length = 79
+exclude = ./venv/*,*/migrations/*, Project/settings*
